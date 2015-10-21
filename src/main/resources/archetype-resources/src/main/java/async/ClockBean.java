@@ -1,8 +1,8 @@
 package ${package}.async;
 
-import com.jsmart5.framework.annotation.AsyncBean;
-import com.jsmart5.framework.listener.WebAsyncListener;
-import com.jsmart5.framework.manager.WebContext;
+import com.jsmartframework.web.annotation.AsyncBean;
+import com.jsmartframework.web.listener.WebAsyncListener;
+import com.jsmartframework.web.manager.WebContext;
 
 import javax.servlet.AsyncContext;
 import javax.servlet.ServletResponse;
