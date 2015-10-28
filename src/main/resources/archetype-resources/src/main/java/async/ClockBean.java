@@ -13,7 +13,7 @@ import java.util.Date;
 import ${package}.service.SpringService;
 import org.springframework.beans.factory.annotation.Autowired;
 
-@AsyncBean(asyncPath = "/home/clock")
+@AsyncBean("/home/clock")
 public class ClockBean implements WebAsyncListener {
 
     @Autowired
