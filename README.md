@@ -1,2 +1,2 @@
 # jsmart-async-archetype
-Basic maven archetype to create web project based on JSmart
+Maven archetype to create web project based on JSmart with Server Sent Events
